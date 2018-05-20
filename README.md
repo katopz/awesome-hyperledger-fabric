@@ -5,6 +5,9 @@ An awesome list for Hyperledger Fabric
 - Github : https://github.com/hyperledger/fabric
 - Document : http://hyperledger-fabric.readthedocs.io/
 
+### Develop
+- [Hyperledger Composer Extension for VSCode](https://github.com/hyperledger/composer-vscode-plugin)
+
 ### Examples
 - [Hyperledger Training and Education Working Group](https://github.com/hyperledger/education)
 - [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples)
