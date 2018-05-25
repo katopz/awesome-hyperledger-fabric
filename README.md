@@ -5,6 +5,9 @@ An awesome list for Hyperledger Fabric
 - Github : https://github.com/hyperledger/fabric
 - Document : http://hyperledger-fabric.readthedocs.io/
 
+### Course
+- [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
+
 ### Develop
 - [Hyperledger Composer Extension for VSCode](https://github.com/hyperledger/composer-vscode-plugin)
 
