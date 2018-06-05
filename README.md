@@ -15,6 +15,7 @@ An awesome list for Hyperledger Fabric
 - [Hyperledger Training and Education Working Group](https://github.com/hyperledger/education)
 - [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples)
 - [Hyperledger Development with in 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
+- [Hyperledger Fabric Typescript Boilerplate](https://medium.com/wearetheledger/hyperledger-fabric-typescript-boilerplate-455004d0c6c8?mediumPostId=ea01decfd60c)
 
 ### Integration
  - [Hyperledger Fabric GraphQL Boilerplate](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
