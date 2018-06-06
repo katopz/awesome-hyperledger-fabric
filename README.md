@@ -5,6 +5,9 @@ An awesome list for Hyperledger Fabric
 - Github : https://github.com/hyperledger/fabric
 - Document : http://hyperledger-fabric.readthedocs.io/
 
+### Architecture
+- [Blockchain reference architecture](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture/)
+
 ### Course
 - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
 
