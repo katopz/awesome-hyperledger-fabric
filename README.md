@@ -7,6 +7,7 @@ An awesome list for Hyperledger Fabric
 
 ### Architecture
 - [Blockchain reference architecture](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture/)
+- [The IBM Advantage for Implementing the CSCC Cloud Customer Reference Architecture for Blockchain](https://www.ibm.com/cloud/garage/files/IBM-Advantage-for-Blockchain.pdf)
 
 ### Course
 - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
@@ -20,7 +21,7 @@ An awesome list for Hyperledger Fabric
 - [Hyperledger Development with in 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 - [Hyperledger Fabric Typescript Boilerplate](https://medium.com/wearetheledger/hyperledger-fabric-typescript-boilerplate-455004d0c6c8?mediumPostId=ea01decfd60c)
 - [A to-do list application using Hyperledger Fabric (0.6) as a data source](https://github.com/IBM/todo-list-fabric)
-- [IBM Blockchain - Marbles Demo](https://github.com/IBM-Blockchain/marbles)
+- [IBM Blockchain - Marbles Demo](https://github.com/IBM-Blockchain/marbles) // Fabric v1.1
 
 ### Integration
  - [Hyperledger Fabric GraphQL Boilerplate](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
