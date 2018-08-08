@@ -22,6 +22,7 @@ An awesome list for Hyperledger Fabric
 - [Hyperledger Fabric Typescript Boilerplate](https://medium.com/wearetheledger/hyperledger-fabric-typescript-boilerplate-455004d0c6c8?mediumPostId=ea01decfd60c)
 - [A to-do list application using Hyperledger Fabric (0.6) as a data source](https://github.com/IBM/todo-list-fabric)
 - [IBM Blockchain - Marbles Demo](https://github.com/IBM-Blockchain/marbles) // Fabric v1.1
+- [Hyperledger Fabric Network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate)
 
 ### Integration
  - [Hyperledger Fabric GraphQL Boilerplate](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
