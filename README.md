@@ -23,6 +23,7 @@ An awesome list for Hyperledger Fabric
 - [A to-do list application using Hyperledger Fabric (0.6) as a data source](https://github.com/IBM/todo-list-fabric)
 - [IBM Blockchain - Marbles Demo](https://github.com/IBM-Blockchain/marbles) // Fabric v1.1
 - [Hyperledger Fabric Network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate)
+- [How to create a decentralized application running on Hyperledger Fabric Network](http://www.goverticalworkshop.com/resources/how-to-create-a-decentralized-application-running-on-hyperledger-fabric-network)
 
 ### Integration
  - [Hyperledger Fabric GraphQL Boilerplate](https://github.com/entria/hyperledger-fabric-graphql-boilerplate)
